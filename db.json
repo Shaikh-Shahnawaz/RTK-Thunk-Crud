@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "shaikh Shahnawaz",
+      "username": "shanu",
+      "email": "shaikhshahnawaz8821@gmail.com",
+      "phone": "987654321",
+      "id": 1
+    },
+    {
+      "name": "shagufta shaikh",
+      "username": "shagy",
+      "email": "shagy@gmail.com",
+      "phone": "7548243650",
+      "id": 3
+    },
+    {
+      "name": "Nahid Mirza",
+      "username": "nahid",
+      "email": "nahidmirza@gmail.com",
+      "phone": "985624563",
+      "id": 4
+    },
+    {
+      "name": "shaikh sohail",
+      "username": "sohail",
+      "email": "sohail@gmail.com",
+      "phone": "785468952",
+      "id": 5
+    },
+    {
+      "name": "shaikh Shahnawaz",
+      "username": "admin",
+      "email": "shaikhshahnawaz8821@gmail.com",
+      "phone": "7548243650",
+      "id": 7
+    },
+    {
+      "name": "shaikh Shahnawaz",
+      "username": "shanu",
+      "email": "shaikhshahnawaz8821@gmail.com",
+      "phone": "987654321",
+      "id": 8
+    }
+  ]
+}
